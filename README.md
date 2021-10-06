@@ -10,3 +10,4 @@
 * _c++_
 * _scripting_
 * _centos version_
+* _rhel_
